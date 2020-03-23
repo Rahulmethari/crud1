@@ -20,7 +20,7 @@
 if($_POST){
 
     // include database connection
-    include 'config/database.php';
+    include '/database.php';
 
     try{
 
