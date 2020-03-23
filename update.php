@@ -23,7 +23,7 @@
 $id=isset($_GET['id']) ? $_GET['id'] : die('ERROR: Record ID not found.');
 
 //include database connection
-include 'config/database.php';
+include 'database.php';
 
 // read current record's data
 try {
