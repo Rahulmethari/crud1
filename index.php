@@ -26,7 +26,7 @@
 
         <?php
 // include database connection
-include 'config/database.php';
+include 'database.php';
 
 // delete message prompt will be here
 $action = isset($_GET['action']) ? $_GET['action'] : "";
