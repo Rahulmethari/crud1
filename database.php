@@ -1,9 +1,9 @@
 <?php
 // used to connect to the database
-$host = "us-cdbr-iron-east-01.cleardb.net";
-$db_name = "crud1 db";
-$username = "be3351bc1a9044";
-$password = "cbf9a5e4";
+$host = "q68u8b2buodpme2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$db_name = "crud1";
+$username = "x5japq6t7xrd4bz6";
+$password = "e9h4qzt64hd5bzat";
 
 try {
     $con = new PDO("mysql:host={$host};dbname={$db_name}", $username, $password);
