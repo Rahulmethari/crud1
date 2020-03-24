@@ -1,7 +1,7 @@
 <?php
 // used to connect to the database
 $host = "us-cdbr-iron-east-01.cleardb.net";
-$db_name = "crud1";
+$db_name = "crud1 db";
 $username = "be3351bc1a9044";
 $password = "cbf9a5e4";
 
