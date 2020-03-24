@@ -117,9 +117,9 @@ function delete_user( id ){
         window.location = 'delete.php?id=' + id;
     }
 
-$ echo '{}' > composer.json
-$ git add composer.json
-$ git commit -m "add composer.json for PHP app detection"
+$echo '{}' > composer.json
+$git add composer.json
+$git commit -m "add composer.json for PHP app detection"
 
 }
 </script>
