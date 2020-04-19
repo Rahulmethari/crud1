@@ -1,7 +1,7 @@
 <?php
 // used to connect to the database
 $host = "us-cdbr-iron-east-01.cleardb.net";
-$db_name = "heroku_f1775403e255be";
+$db_name = "heroku_f1775403e255be2";
 $username = "b6fc99c0d984fb";
 $password = "125b4491";
 
